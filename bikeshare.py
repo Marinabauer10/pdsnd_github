@@ -3,6 +3,8 @@
 #https://stackoverflow.com/questions/319426/how-do-i-do-a-case-insensitive-string-comparison
 #https://stackoverflow.com/questions/50866850/ask-user-to-continue-viewing-the-next-5-lines-of-data
 #Used slack channel for my doubts about this project
+
+#It is a neu comment due to git  Documentation
 import time
 import pandas as pd
 import numpy as np
