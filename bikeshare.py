@@ -8,7 +8,7 @@
 import time
 import pandas as pd
 import numpy as np
-
+# If I want to refractoring, it may be happpen on this place - generate a list with possible citys
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
