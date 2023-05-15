@@ -20,3 +20,6 @@ Credits go to https://github.com/udacity/pdsnd_github
 ### Changes in Documtation branch
 * __It is a neu comment due to git  Documentation__
 ### Refractoring Code, Add new comment #Create def for Filters
+
+### Changes in refactoring branch
+* __Add list of possible cities in bikeshare.py__
