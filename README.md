@@ -29,3 +29,5 @@ Credits go to https://github.com/udacity/pdsnd_github
 # update documentation branch du to git review
 ### Changes in Documtation branch
 # update documentation branch du to git review
+
+### Merging all branches
