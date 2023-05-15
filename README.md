@@ -16,10 +16,7 @@
 ### Credits
 Credits go to https://github.com/udacity/pdsnd_github
 
-<<<<<<< HEAD
 
 ### Changes in Documtation branch
 * __It is a neu comment due to git  Documentation__
-=======
 ### Refractoring Code, Add new comment #Create def for Filters
->>>>>>> refractoring
