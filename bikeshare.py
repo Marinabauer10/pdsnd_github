@@ -5,6 +5,8 @@
 #Used slack channel for my doubts about this project
 
 #It is a neu comment due to git  Documentation
+
+#May be I need new packages, but I want to make new comment after Udacity review
 import time
 import pandas as pd
 import numpy as np
